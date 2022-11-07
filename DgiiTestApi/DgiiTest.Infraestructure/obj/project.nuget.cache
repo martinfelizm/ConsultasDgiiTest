@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ntyMFgic3NGWByWlUSfUgCQsP1yc0NxvJOzPVhpaUvGOtLvkyBnyGxlYC3myxgbIzV6uqeutlEig4gCdlwlw2g==",
+  "dgSpecHash": "sSq9gDfozqUo2xcdOVYHmMyn19+sVEPLwFi0iU2wPouKpWz11hwQJcyGgSnsNmcjWtCyGXlpJ+fZK6CT4WR8Fg==",
   "success": true,
-  "projectFilePath": "D:\\Proyects\\DgiiTestApi\\DgiiTest.Infraestructure\\DgiiTest.Infraestructure.csproj",
+  "projectFilePath": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.Infraestructure\\DgiiTest.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mfmorillo\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\mfmorillo\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

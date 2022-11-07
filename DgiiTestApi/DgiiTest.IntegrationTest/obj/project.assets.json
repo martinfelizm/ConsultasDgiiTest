@@ -5986,11 +5986,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyects\\DgiiTestApi\\DgiiTest.IntegrationTest\\DgiiTest.IntegrationTest.csproj",
+      "projectUniqueName": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.IntegrationTest\\DgiiTest.IntegrationTest.csproj",
       "projectName": "DgiiTest.IntegrationTest",
-      "projectPath": "D:\\Proyects\\DgiiTestApi\\DgiiTest.IntegrationTest\\DgiiTest.IntegrationTest.csproj",
+      "projectPath": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.IntegrationTest\\DgiiTest.IntegrationTest.csproj",
       "packagesPath": "C:\\Users\\mfmorillo\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyects\\DgiiTestApi\\DgiiTest.IntegrationTest\\obj\\",
+      "outputPath": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.IntegrationTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",

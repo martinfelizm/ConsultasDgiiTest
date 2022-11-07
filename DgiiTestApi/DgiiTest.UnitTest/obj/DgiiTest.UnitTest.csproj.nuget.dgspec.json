@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyects\\DgiiTestApi\\DgiiTest.UnitTest\\DgiiTest.UnitTest.csproj": {}
+    "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.UnitTest\\DgiiTest.UnitTest.csproj": {}
   },
   "projects": {
-    "D:\\Proyects\\DgiiTestApi\\DgiiTest.UnitTest\\DgiiTest.UnitTest.csproj": {
+    "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.UnitTest\\DgiiTest.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyects\\DgiiTestApi\\DgiiTest.UnitTest\\DgiiTest.UnitTest.csproj",
+        "projectUniqueName": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.UnitTest\\DgiiTest.UnitTest.csproj",
         "projectName": "DgiiTest.UnitTest",
-        "projectPath": "D:\\Proyects\\DgiiTestApi\\DgiiTest.UnitTest\\DgiiTest.UnitTest.csproj",
+        "projectPath": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.UnitTest\\DgiiTest.UnitTest.csproj",
         "packagesPath": "C:\\Users\\mfmorillo\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyects\\DgiiTestApi\\DgiiTest.UnitTest\\obj\\",
+        "outputPath": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",

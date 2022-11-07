@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J4OPz4xcLpTF06d0fHqs0QYdrbW1BUEeMc/DbFwvQkFRFR/IzS/yecxWsNHEhlIWQ8n6R/ks7XRJG26kHSStZQ==",
+  "dgSpecHash": "3+Y/FMewNEXggqJ++FEKNR/38LODxpejdCpCJAP2H9FqxmKFpWW156SW4zOFeTJafr7SIApEfzO4XefD+GbY0g==",
   "success": true,
-  "projectFilePath": "D:\\Proyects\\DgiiTestApi\\DgiiTest.Api\\DgiiTest.Api.csproj",
+  "projectFilePath": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.Api\\DgiiTest.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mfmorillo\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\mfmorillo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

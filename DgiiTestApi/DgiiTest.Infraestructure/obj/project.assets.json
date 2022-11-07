@@ -3345,11 +3345,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyects\\DgiiTestApi\\DgiiTest.Infraestructure\\DgiiTest.Infraestructure.csproj",
+      "projectUniqueName": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.Infraestructure\\DgiiTest.Infraestructure.csproj",
       "projectName": "DgiiTest.Infraestructure",
-      "projectPath": "D:\\Proyects\\DgiiTestApi\\DgiiTest.Infraestructure\\DgiiTest.Infraestructure.csproj",
+      "projectPath": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.Infraestructure\\DgiiTest.Infraestructure.csproj",
       "packagesPath": "C:\\Users\\mfmorillo\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyects\\DgiiTestApi\\DgiiTest.Infraestructure\\obj\\",
+      "outputPath": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
@@ -3376,8 +3376,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Proyects\\DgiiTestApi\\DgiiTest.Core\\DgiiTest.Core.csproj": {
-              "projectPath": "D:\\Proyects\\DgiiTestApi\\DgiiTest.Core\\DgiiTest.Core.csproj"
+            "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.Core\\DgiiTest.Core.csproj": {
+              "projectPath": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\DgiiTestApi\\DgiiTest.Core\\DgiiTest.Core.csproj"
             }
           }
         }

@@ -22,6 +22,10 @@ namespace DgiiTest.Api.Controllers
             _comprobantesfiscalesRepository = comprobantesfiscalesRepository;
         }
 
+        /// <summary>
+        /// Metodo de consultas de todos los contribuyentes
+        /// </summary>
+        /// <returns></returns>
         [HttpGet("getcontribuyentes")]
         public async Task<IActionResult> GetContribuyentesAll()
         {
@@ -29,6 +33,10 @@ namespace DgiiTest.Api.Controllers
             return Ok(new BusinessResponse<IEnumerable<ContribuyentesDto>>(response));
         }
 
+        /// <summary>
+        /// Metodo de consultas de todos los contribuyentes por su Rnc ó Cedula
+        /// </summary>
+        /// <returns></returns>
         [HttpGet("getcontribuyentes/{rncCedula}")]
         public async Task<IActionResult> GetContribuyentesById(string rncCedula)
         {
@@ -37,6 +45,10 @@ namespace DgiiTest.Api.Controllers
             return Ok(new BusinessResponse<IEnumerable<ContribuyentesDto>>(response));
         }
 
+        /// <summary>
+        /// Metodo de consultas de todos los Comprobantes Fiscales Electronicos
+        /// </summary>
+        /// <returns></returns>
         [HttpGet("getcomprobantesfiscaleselectronicos")]
         public async Task<IActionResult> GetComprobantesFiscalesElectronicosAll()
         {
@@ -44,6 +56,10 @@ namespace DgiiTest.Api.Controllers
             return Ok(new BusinessResponse<IEnumerable<ComprobantesFiscalesElectronicosDto>>(response));
         }
 
+        /// <summary>
+        /// Metodo de consultas de los Comprobantes Fiscales Electronicos por su Rnc ó Cedula
+        /// </summary>
+        /// <returns></returns>
         [HttpGet("getcomprobantesfiscaleselectronicos/{rncCedula}")]
         public async Task<IActionResult> GetComprobantesFiscalesElectronicosById(string rncCedula)
         {

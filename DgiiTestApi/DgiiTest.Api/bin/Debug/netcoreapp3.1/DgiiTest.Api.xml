@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DgiiTest.Api</name>
+    </assembly>
+    <members>
+        <member name="M:DgiiTest.Api.Controllers.DgiiConsultasController.GetContribuyentesAll">
+            <summary>
+            Metodo de consultas de todos los contribuyentes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DgiiTest.Api.Controllers.DgiiConsultasController.GetContribuyentesById(System.String)">
+            <summary>
+            Metodo de consultas de todos los contribuyentes por su Rnc ó Cedula
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DgiiTest.Api.Controllers.DgiiConsultasController.GetComprobantesFiscalesElectronicosAll">
+            <summary>
+            Metodo de consultas de todos los Comprobantes Fiscales Electronicos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DgiiTest.Api.Controllers.DgiiConsultasController.GetComprobantesFiscalesElectronicosById(System.String)">
+            <summary>
+            Metodo de consultas de los Comprobantes Fiscales Electronicos por su Rnc ó Cedula
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
