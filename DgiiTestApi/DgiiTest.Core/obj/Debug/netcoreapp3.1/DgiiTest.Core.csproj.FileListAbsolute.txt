@@ -1,0 +1,32 @@
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\bin\Debug\netcoreapp3.1\DgiiTest.Core.exe
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\bin\Debug\netcoreapp3.1\DgiiTest.Core.deps.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\bin\Debug\netcoreapp3.1\DgiiTest.Core.runtimeconfig.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\bin\Debug\netcoreapp3.1\DgiiTest.Core.runtimeconfig.dev.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\bin\Debug\netcoreapp3.1\DgiiTest.Core.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\bin\Debug\netcoreapp3.1\DgiiTest.Core.pdb
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.csproj.AssemblyReference.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.AssemblyInfoInputs.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.AssemblyInfo.cs
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.csproj.CoreCompileInputs.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.csproj.CopyComplete
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.pdb
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.genruntimeconfig.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Core\bin\Debug\netcoreapp3.1\DgiiTest.Core.exe
+D:\Proyects\DgiiTestApi\DgiiTest.Core\bin\Debug\netcoreapp3.1\DgiiTest.Core.deps.json
+D:\Proyects\DgiiTestApi\DgiiTest.Core\bin\Debug\netcoreapp3.1\DgiiTest.Core.runtimeconfig.json
+D:\Proyects\DgiiTestApi\DgiiTest.Core\bin\Debug\netcoreapp3.1\DgiiTest.Core.runtimeconfig.dev.json
+D:\Proyects\DgiiTestApi\DgiiTest.Core\bin\Debug\netcoreapp3.1\DgiiTest.Core.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Core\bin\Debug\netcoreapp3.1\DgiiTest.Core.pdb
+D:\Proyects\DgiiTestApi\DgiiTest.Core\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.csproj.AssemblyReference.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyects\DgiiTestApi\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.AssemblyInfoInputs.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.AssemblyInfo.cs
+D:\Proyects\DgiiTestApi\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.csproj.CoreCompileInputs.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.csproj.CopyComplete
+D:\Proyects\DgiiTestApi\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.pdb
+D:\Proyects\DgiiTestApi\DgiiTest.Core\obj\Debug\netcoreapp3.1\DgiiTest.Core.genruntimeconfig.cache

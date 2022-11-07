@@ -1,0 +1,93 @@
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Core.deps.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Core.runtimeconfig.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Core.runtimeconfig.dev.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Core.exe
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.exe
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.deps.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.runtimeconfig.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.runtimeconfig.dev.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.pdb
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Core.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Infraestructure.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Core.pdb
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Infraestructure.pdb
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.csproj.AssemblyReference.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.AssemblyInfoInputs.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.AssemblyInfo.cs
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.csproj.CoreCompileInputs.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\staticwebassets\DgiiTest.Api.StaticWebAssets.Manifest.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\staticwebassets\DgiiTest.Api.StaticWebAssets.xml
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\DgiiTest.Api.styles.css
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.RazorTargetAssemblyInfo.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.csproj.CopyComplete
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.pdb
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.genruntimeconfig.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Core.deps.json
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Core.runtimeconfig.json
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Core.runtimeconfig.dev.json
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Core.exe
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.StaticWebAssets.xml
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.exe
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.deps.json
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.runtimeconfig.json
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.runtimeconfig.dev.json
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Api.pdb
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Core.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Infraestructure.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Core.pdb
+D:\Proyects\DgiiTestApi\DgiiTest.Api\bin\Debug\netcoreapp3.1\DgiiTest.Infraestructure.pdb
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.csproj.AssemblyReference.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.AssemblyInfoInputs.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.AssemblyInfo.cs
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.csproj.CoreCompileInputs.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\staticwebassets\DgiiTest.Api.StaticWebAssets.Manifest.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.RazorTargetAssemblyInfo.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.csproj.CopyComplete
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.pdb
+D:\Proyects\DgiiTestApi\DgiiTest.Api\obj\Debug\netcoreapp3.1\DgiiTest.Api.genruntimeconfig.cache

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<WebAppDgiiTestCore.Models.ComprobantesFiscalesElectronicos>
+
+@{
+    ViewData["Title"] = "Detalle de Comprobantes Fiscales Electronicos";
+}
+
+<h2>Detalle de Comprobantes Fiscales Electronicos</h2>
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RncCedula)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ENcf)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Monto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Itbis18)
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RncCedula)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ENcf)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Monto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Itbis18)
+            </td>
+           
+        </tr>
+}
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>
+                <a style="font-weight:bold">Itbis Total</a> :  @Html.DisplayFor(modelItem => Model.First().ItbisTotal)
+            </td>
+            <td>
+                <a style="font-weight:bold">Monto Total</a> :  @Html.DisplayFor(modelItem => Model.First().MontoTotal)
+                @*"Monto Total" :  @Html.DisplayFor(modelItem => Model.ToList().Sum(m => Convert.ToDecimal(m.Monto)))*@
+            </td>
+        </tr>
+    </tfoot>
+</table>

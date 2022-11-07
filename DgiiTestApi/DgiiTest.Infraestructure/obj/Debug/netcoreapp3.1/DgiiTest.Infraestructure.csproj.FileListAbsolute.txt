@@ -1,0 +1,34 @@
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Core.deps.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Core.runtimeconfig.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Core.runtimeconfig.dev.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Core.exe
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Infraestructure.deps.json
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Infraestructure.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Infraestructure.pdb
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Core.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Core.pdb
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.csproj.AssemblyReference.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.AssemblyInfoInputs.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.AssemblyInfo.cs
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.csproj.CopyComplete
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.dll
+D:\Software Development\Proyectos\DgiiTest\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.pdb
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Core.deps.json
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Core.runtimeconfig.json
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Core.runtimeconfig.dev.json
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Core.exe
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Infraestructure.deps.json
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Infraestructure.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Infraestructure.pdb
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Core.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\bin\Debug\netcoreapp3.1\DgiiTest.Core.pdb
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.csproj.AssemblyReference.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.AssemblyInfoInputs.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.AssemblyInfo.cs
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.csproj.CopyComplete
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.dll
+D:\Proyects\DgiiTestApi\DgiiTest.Infraestructure\obj\Debug\netcoreapp3.1\DgiiTest.Infraestructure.pdb

@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Pagina de Consultas DGII";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido</h1>
+
+    <div class="container">
+        <br />
+        <div style="width:90%; margin:0 auto;">
+            <table id="customerDatatable" class="table table-striped table-bordered dt-responsive nowrap" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>RncCedula</th>
+                        <th>Nombre</th>
+                        <th>Tipo</th>
+                        <th>Estatus</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<script>
+    $(document).ready(function () {
+        $('#customerDatatable').dataTable({
+        });
+    });
+</script>
+
