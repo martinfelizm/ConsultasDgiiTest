@@ -25,17 +25,17 @@ namespace WebAppDgiiTestCore.Controllers
             return View(response.ToList());
         }
 
-        public async Task<IActionResult> GetComprobantesFiscalesElectronicoById( string rncCedula)
+        public async Task<IActionResult> GetComprobantesFiscalesElectronicoById(string rncCedula)
         {
             var response = await _consultaServices.GetComprobantesFiscalesElectronicosById(rncCedula);
 
             //RedirectToPage("GetComprobantesFiscalesElectronicoById");
-            return View(response.ToList());            
+            return View(response.ToList());
         }
 
         public IActionResult Privacy()
         {
             return View();
-        }       
+        }
     }
 }

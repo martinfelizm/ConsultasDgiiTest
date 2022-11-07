@@ -1,26 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Software Development\\Proyectos\\WebAppDgiiTestCore\\WebAppDgiiTestCore\\WebAppDgiiTestCore.csproj": {}
+    "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\WebAppDgiiTestCore\\WebAppDgiiTestCore\\WebAppDgiiTestCore.csproj": {}
   },
   "projects": {
-    "D:\\Software Development\\Proyectos\\WebAppDgiiTestCore\\WebAppDgiiTestCore\\WebAppDgiiTestCore.csproj": {
+    "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\WebAppDgiiTestCore\\WebAppDgiiTestCore\\WebAppDgiiTestCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software Development\\Proyectos\\WebAppDgiiTestCore\\WebAppDgiiTestCore\\WebAppDgiiTestCore.csproj",
+        "projectUniqueName": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\WebAppDgiiTestCore\\WebAppDgiiTestCore\\WebAppDgiiTestCore.csproj",
         "projectName": "WebAppDgiiTestCore",
-        "projectPath": "D:\\Software Development\\Proyectos\\WebAppDgiiTestCore\\WebAppDgiiTestCore\\WebAppDgiiTestCore.csproj",
-        "packagesPath": "C:\\Users\\Martin Feliz\\.nuget\\packages\\",
-        "outputPath": "D:\\Software Development\\Proyectos\\WebAppDgiiTestCore\\WebAppDgiiTestCore\\obj\\",
+        "projectPath": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\WebAppDgiiTestCore\\WebAppDgiiTestCore\\WebAppDgiiTestCore.csproj",
+        "packagesPath": "C:\\Users\\mfmorillo\\.nuget\\packages\\",
+        "outputPath": "C:\\Martin\\Proyectos\\TEST\\ConsultasDgiiTest\\WebAppDgiiTestCore\\WebAppDgiiTestCore\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Martin Feliz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mfmorillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -67,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
